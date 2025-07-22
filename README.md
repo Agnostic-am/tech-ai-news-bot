@@ -79,6 +79,6 @@ MIT License — Free to use, modify, and share.
 
 ## Credits
 
-Created by **Agnostic** as a learning project for Telegram news automation.  
+Created by **Agnostic** (@Agnostic-am) as a learning project for Telegram news automation.  
 Telegram Channel: [@globaltech_ai](https://t.me/globaltech_ai)
 Feel free to **fork**, **star**, or contribute.
